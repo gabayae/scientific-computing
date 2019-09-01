@@ -13,6 +13,9 @@ It is presented at the African Institute for Mathematical Sciences (AIMS), cente
  The materials presented here come may have come originally from different sources, which include mainly
  
      -The Software Carpentry (swc-) lessons;
-     -The Introduction to Programming using Python (IPuP) lessons developped in 2016, by Jeff Sanders, Yaé Ulrich Gaba 
-      and Jordan Masakuna  at the African Institute for Mathematical Sciences (AIMS), center of South Africa
+     -The Introduction to Programming using Python (IPuP) lessons developped in 2016, by:
+          *Jeff Sanders; 
+          *Yaé Ulrich Gaba; 
+          *Jordan Masakuna;
+      at the African Institute for Mathematical Sciences (AIMS), center of South Africa
      
