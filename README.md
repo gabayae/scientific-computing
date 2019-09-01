@@ -1,9 +1,17 @@
 # scientific-computing
 This course seeks to teach you the basics of professional software development in the context of science. 
+It is presented at the African Institute for Mathematical Sciences (AIMS), center of Senegal, 01 September to 20 September 2019.
 
 
  The subjects we will cover include,
 
-    Basic Linux commands (The Shell - BASH);
-    Programming and Computer Science Basics - Python;
-    Version Control - git.
+    - Basic Linux commands (The Shell - BASH);
+    - Programming and Computer Science Basics - Python;
+    - Version Control - git.
+    
+ The materials presented here come may have come originally from different sources, which include mainly
+ 
+     -The Software Carpentry (swc-) lessons;
+     -The Introduction to Programming (IPuP) lesson developped in 2016, by Jeff Sanders, Yaé Ulrich Gaba and Jordan Masakuna
+      at the African Institute for Mathematical Sciences (AIMS), center of South Africa
+     
