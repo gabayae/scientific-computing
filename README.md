@@ -3,7 +3,7 @@ This course seeks to teach you the basics of professional software development i
 It is presented at the African Institute for Mathematical Sciences (AIMS), center of Senegal, 01 September to 20 September 2019.
 
 
- # The subjects we will cover include,
+ ## The subjects we will cover include:
 
       * Basic Linux commands (The Shell - BASH);
       * Programming and Computer Science Basics - Python;
