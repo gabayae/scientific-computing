@@ -25,9 +25,9 @@ It is presented at the African Institute for Mathematical Sciences (AIMS), cente
  
  # You want to Contribute
  Contributions to this project are very welcome!Some great ways to help out are to:
-       * proofread;
-       * add reading comprehension exercises to existing sections;
-       * provide general feedback about the organization of the website, the consistency of the materi. ;
+          * proofread;
+          * add reading comprehension exercises to existing sections;
+          * provide general feedback about the organization of the website, the consistency of the materi. ;
        
 You can either open an issue to provide feedback or point out errors, or you can create [pull request](https://help.github.com/en/articles/creating-a-pull-request).    
  
