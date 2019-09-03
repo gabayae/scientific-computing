@@ -23,7 +23,7 @@ It is presented at the African Institute for Mathematical Sciences (AIMS), cente
  # Asking Questions
  Please feel free to post questions (or point out mistakes) about the reading by opening a [GitHub issue](https://github.com/gabayae/scientific-computing/issues)
  
- # You want to Contribute
+ # You want to Contribute?
  Contributions to this project are very welcome!Some great ways to help out are to:
  
           * proofread;
