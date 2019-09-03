@@ -46,7 +46,10 @@ You can either open an issue to provide feedback or point out errors, or you can
  
  
  # Additionnal Material
- I have not included it in the material but [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a nice Markdown "cheat sheet" for looking up how to make tables, code-blocks, etc., in Markdown.
+ I have not included it in the material but [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a nice Markdown "cheat sheet" for looking up how to make tables, code-blocks, etc., in Markdown. A [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) is also available.
+ 
+ 
+ 
  
  # Making a Pull Request
  If you want to submit a change to some of the content (e.g. correcting typos), do the following:
