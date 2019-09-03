@@ -4,15 +4,15 @@ It is presented at the African Institute for Mathematical Sciences (AIMS), cente
 
 The material is meant to be used on a university course (at any level where the material feels appropriate, depending on your background!), but can also be used for self-study. We concentrate on Python 3 only.
 
-Amazing ressources can also be find at 
+Amazing ressources can also be find at: 
 
-* [Dive into Python](http://www.diveintopython.net/toc/index.html)
+* [Dive into Python](http://www.diveintopython.net/toc/index.html);
 
-* [Software Carpentry's Python Lectures](http://software-carpentry.org/4_0/python/)
+* [Software Carpentry's Python Lectures](http://software-carpentry.org/4_0/python/);
 
-* [IPython: A System for Interactive Scientific Computing](http://dx.doi.org/10.1109/MCSE.2007.53)
+* [IPython: A System for Interactive Scientific Computing](http://dx.doi.org/10.1109/MCSE.2007.53);
 
-* [How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/thinkpython.html)
+* [How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/thinkpython.html).
 
 
  ## The subjects we will cover include:
