@@ -17,11 +17,11 @@ It is presented at the African Institute for Mathematical Sciences (AIMS), cente
           *Jeff Sanders; 
           *Yaé Ulrich Gaba; 
           *Jordan Masakuna;
-      at the African Institute for Mathematical Sciences (AIMS), center of South Africa
+      at the African Institute for Mathematical Sciences (AIMS), center of South Africa.
  
  
  # Asking Questions
- Please feel free to post questions (or point out mistakes) about the reading by opening a [GitHub issue](https://github.com/gabayae/scientific-computing/issues)
+ Please feel free to post questions (or point out mistakes) about the reading by opening a [GitHub issue](https://github.com/gabayae/scientific-computing/issues).
  
  # You want to Contribute?
  Contributions to this project are very welcome!Some great ways to help out are to:
@@ -51,4 +51,4 @@ You can either open an issue to provide feedback or point out errors, or you can
    5. Create a [Pull Request](https://help.github.com/en/articles/creating-a-pull-request) from your branch into the master branch.
  
  
-### Instructor: [Yaé Ulrich Gaba](https://github.com/gabayae)
+### Instructor: [Yaé Ulrich Gaba](https://github.com/gabayae).
