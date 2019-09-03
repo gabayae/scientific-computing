@@ -2,6 +2,18 @@
 This course seeks to teach you the basics of professional software development in the context of science. 
 It is presented at the African Institute for Mathematical Sciences (AIMS), center of Senegal, 01 September to 20 September 2019.
 
+The material is meant to be used on a university course (at any level where the material feels appropriate, depending on your background!), but can also be used for self-study. We concentrate on Python 3 only.
+
+Amazing ressources can also be find at 
+
+* [Dive into Python](http://www.diveintopython.net/toc/index.html)
+
+* [Software Carpentry's Python Lectures](http://software-carpentry.org/4_0/python/)
+
+* [IPython: A System for Interactive Scientific Computing](http://dx.doi.org/10.1109/MCSE.2007.53)
+
+* [How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/thinkpython.html)
+
 
  ## The subjects we will cover include:
 
